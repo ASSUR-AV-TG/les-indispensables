@@ -1,0 +1,9 @@
+# Ignorer les fichiers temporaires et système
+*.tmp
+*.log
+*.bak
+Thumbs.db
+.DS_Store
+
+# Ignorer tout ce qui est en dehors du projet (sécurité)
+../../*
